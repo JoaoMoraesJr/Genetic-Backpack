@@ -2,4 +2,4 @@
 
 Formato de saída:
 
-<Número do individuo> - <Quantidade de cada Item> : <Fitness> - <Peso Acumulado>
+Número do individuo - Quantidade de cada Item : Fitness - Peso Acumulado
